@@ -1,22 +1,27 @@
 <!-- Profil GitHub enrichi -->
 
-<h1 align="center">🎯 En recherche d'alternance 🎯</h1>
+
+<h1 align="center">Bienvenue sur mon GitHub 👋</h1>
+
+<h1 align="center">🎯 En recherche d'alternance en tant qu'ingénieur🎯</h1>
 
 <h3 align="center" style="font-size: 1.1em;">
-  🔍 Actuellement à la recherche d'une alternance dans les domaines de l'<strong>électronique</strong>, de l'<strong>informatique</strong> et des <strong>systèmes embarqués</strong><br>
-  📍 Zone de recherche : <strong>toute la France</strong> 🇫🇷<br>
-  ![image](https://github.com/user-attachments/assets/18ee888b-eb82-446e-8bab-4b515606b49f)
-
-  📫 Contact : <a href="mailto:asad.contactme@gmail.com">asad.contactme@gmail.com</a>
+  🔍 À la recherche d'une alternance dans les domaines de l'<strong>électronique</strong>, de l'<strong>informatique</strong> et des <strong>systèmes embarqués</strong><br>
+  📍 Zone de recherche : <strong>Toute la France</strong> 🇫🇷<br>
 </h3>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/A-s-a-d/media/main/carte-france-alternance.png" width="350px" alt="Carte de France - Zone de recherche"/>
+  <img src="/images.png" width="350px" alt="Carte de France et d'Europe - Zone de recherche"/>
 </p>
 
----
 
-<h1 align="center">Bienvenue sur mon GitHub 👋</h1>
+<h2 align="center"> 📫 Contact : <a href="mailto:asad.contactme@gmail.com">asad.contactme@gmail.com</a></h2>
+
+
+
+
+
+---
 
 <p align="center">
   <a href="https://github.com/A-s-a-d"><img src="https://komarev.com/ghpvc/?username=A-s-a-d&style=flat-square&color=blue" alt="Profile views"/></a>
@@ -57,7 +62,8 @@
 
 <p align="center">
   <a href="https://github.com/A-s-a-d/A-s-a-d">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-s-a-d&layout=compact&langs_count=8&theme=dracula&hide=html" alt="Top Languages"/>
+   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-s-a-d&layout=compact&langs_count=20&theme=dracula&hide=html" alt="Top Languages"/>
+
   </a>
 </p>
 
@@ -81,5 +87,5 @@
 
 ---
 
-✨ *Merci de ta visite ! N’hésite pas à me contacter ou à jeter un œil à mes projets open-source 💻⚡*
+✨ *Merci de ta visite ! N’hésite pas à me contacter ou à jeter un œil à mes projets*
 
