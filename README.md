@@ -62,7 +62,7 @@
 
 <p align="center">
   <a href="https://github.com/A-s-a-d/A-s-a-d">
-   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-s-a-d&layout=compact&langs_count=20&theme=dracula&hide=html" alt="Top Languages"/>
+   <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-s-a-d&layout=compact&langs_count=12&theme=dracula&hide=html" alt="Top Languages"/>
 
   </a>
 </p>
@@ -73,7 +73,7 @@
 
 <p align="center">
   <a href="https://github.com/A-s-a-d/A-s-a-d">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=A-s-a-d&show_icons=true&count_private=true&include_all_commits=true&line_height=27&theme=dracula" alt="GitHub Stats"/>
+    <img height="280em" src="https://github-readme-stats.vercel.app/api?username=A-s-a-d&show_icons=true&count_private=true&include_all_commits=true&line_height=27&theme=dracula" alt="GitHub Stats"/>
   </a>
 </p>
 
@@ -82,7 +82,7 @@
 ### 🔥 Activité continue
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A-s-a-d&theme=dracula" alt="GitHub Streak"/>
+  <img height="280em" src="https://github-readme-streak-stats.herokuapp.com/?user=A-s-a-d&theme=dracula" alt="GitHub Streak"/>
 </p>
 
 ---
