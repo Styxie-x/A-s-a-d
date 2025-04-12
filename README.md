@@ -34,7 +34,7 @@
 
 🎓 Étudiant passionné par l’électronique, l’informatique embarquée, l’automatisation, la programmation et les technologies en général.  
 📡 Je conçois des projets combinant **électronique**, **microcontrôleurs / microprocesseurs / FPGA**, **informatique embarquée**, **IoT**, **capteurs**, **systèmes de communication**, **interfaces graphiques (IHM)**, etc.  
-🔧 Plusieurs de mes projets sont disponibles sur [mon GitHub](https://github.com/A-s-a-d).  
+🔧 Plusieurs de mes projets sont disponibles sur [mon GitHub](https://github.com/A-s-a-d?tab=repositories).  
 💬 N'hésitez pas à explorer ou contribuer !
 
 ---
@@ -46,7 +46,7 @@
 - 🌐 **Projet IoT** : stations météo connectées (ESP32, Arduino), avec serveur local Raspberry Pi.
 - 🎹 **Clavier MIDI** : génération de signaux MIDI + audio analogique.
 - 🌍 **Développement en cours** d’un site portfolio en HTML/CSS/JavaScript.
-- 🛠️ **Divers projets** en électronique, systèmes embarqués et modélisation 3D visibles [ici](https://github.com/A-s-a-d).
+- 🛠️ **Divers projets** en électronique, systèmes embarqués et modélisation 3D visibles [ici](https://github.com/A-s-a-d?tab=repositories).
 
 ---
 
