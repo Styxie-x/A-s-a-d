@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://github.com/A-s-a-d"><img src="https://komarev.com/ghpvc/?username=A-s-a-d&style=flat-square&color=blue" alt="Profile views"/></a>
-  <a href="https://github.com/A-s-a-d?tab=followers"><img src="https://img.shields.io/github/followers/A-s-a-d?label=Followers&style=flat-square" alt="GitHub Followers"/></a>
+<a href="https://github.com/A-s-a-d?tab=followers"><img src="https://img.shields.io/github/followers/A-s-a-d?label=Followers&style=flat-square&logo=github" alt="GitHub Followers"/></a>
 </p>
 
 ---
