@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+## Hello! :wink:
+
+<hr>
+<a href="https://github.com/A-s-a-d/A-s-a-d">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-s-a-d&layout=compact&langs_count=7&theme=dracula"/>
+</a>
+<hr>
+<a href="https://github.com/A-s-a-d/A-s-a-d">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=A-s-a-d&show_icons=true&line_height=27&theme=dracula" alt="GitHub Stats"/>
+</a>
