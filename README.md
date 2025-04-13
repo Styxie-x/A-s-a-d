@@ -3,12 +3,15 @@
 
 <h1 align="center">Bienvenue sur mon GitHub 👋</h1>
 
+<h1 align="center">🎯 En recherche d'un STAGE en tant qu'assistant ingénieur à partir de 5 mai pour une durée de 14 semaine🎯</h1>
+<h2 align="center"> aussi </h2>
+
 <h1 align="center">🎯 En recherche d'alternance en tant qu'ingénieur🎯</h1>
 
-<h3 align="center" style="font-size: 1.1em;">
-  🔍 À la recherche d'une alternance dans les domaines de l'<strong>électronique</strong>, de l'<strong>informatique</strong> et des <strong>systèmes embarqués</strong><br>
+<h2 align="center" style="font-size: 1.1em;">
+  🔍 Dans les domaines de l'<strong>électronique</strong>, de l'<strong>informatique</strong> et des <strong>systèmes embarqués</strong><br>
   📍 Zone de recherche : <strong>Toute la France</strong> 🇫🇷<br>
-</h3>
+</h2>
 
 <p align="center">
   <img src="/images.png" width="350px" alt="Carte de France et d'Europe - Zone de recherche"/>
