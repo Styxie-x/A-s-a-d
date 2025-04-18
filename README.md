@@ -1,6 +1,10 @@
 <!-- Profil GitHub enrichi -->
 
 
+<p align="right">
+  🇬🇧 <a href="ReadmeENG.md">Read this page in English</a>
+</p>
+
 <h1 align="center">Bienvenue sur mon GitHub 👋</h1>
 
 <h1 align="center">🎯 En recherche d'un STAGE en tant qu'assistant ingénieur à partir de 5 mai pour une durée de 14 semaine🎯</h1>
