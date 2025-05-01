@@ -7,9 +7,6 @@
 
 <h1 align="center">Bienvenue sur mon GitHub 👋</h1>
 
-<h1 align="center">🎯 En recherche d'un STAGE en tant qu'assistant ingénieur à partir de 5 mai pour une durée de 14 semaine🎯</h1>
-<h2 align="center"> aussi </h2>
-
 <h1 align="center">🎯 En recherche d'alternance en tant qu'ingénieur🎯</h1>
 
 <h2 align="center" style="font-size: 1.1em;">
