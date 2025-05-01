@@ -6,9 +6,6 @@
 
 <h1 align="center">Welcome to my GitHub 👋</h1>
 
-<h1 align="center">🎯 Looking for an ENGINEERING INTERNSHIP starting May 5 for 14 weeks 🎯</h1>
-<h2 align="center">Also</h2>
-
 <h1 align="center">🎯 Looking for a WORK-STUDY / APPRENTICESHIP position as an engineer 🎯</h1>
 
 <h2 align="center" style="font-size: 1.1em;">
