@@ -1,13 +1,10 @@
-<!-- Profil GitHub enrichi -->
-
-
 <p align="right">
   🇬🇧 <a href="ReadmeENG.md">Read this page in English</a>
 </p>
 
-<h1 align="center">Bienvenue sur mon GitHub 👋</h1>
+<h1 align="center"> 👋</h1>
 
-<h1 align="center">🎯 En recherche d'alternance en tant qu'ingénieur🎯</h1>
+<h1 align="center">🎯 </h1>
 
 <h2 align="center" style="font-size: 1.1em;">
   🔍 Dans les domaines de l'<strong>électronique</strong>, de l'<strong>informatique</strong> et des <strong>systèmes embarqués</strong><br>
